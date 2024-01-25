@@ -1,0 +1,15 @@
+tables, th, td{
+    border: 4px solid rgb(0, 0, 0);
+    
+}
+body{
+    background-image: url(https://www.legat.com/wp-content/uploads/2023/05/John-Hancock-College-Preparatory-High-School-Courtyard.jpg)
+    ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+tables, th, td{
+    background-color:  rgb(127, 142, 161);
+} 
